@@ -1,0 +1,16 @@
+CCTV1,http://221.13.235.229:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0,1.189 MB/s
+CCTV3,http://221.13.235.229:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0,1.251 MB/s
+CCTV5,http://221.13.235.229:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0,1.140 MB/s
+CCTV7,http://221.13.235.229:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0,1.163 MB/s
+CCTV8,http://221.13.235.229:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV9,http://221.13.235.229:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV10,http://221.13.235.229:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0,0.001 MB/s
+CCTV11,http://221.13.235.229:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0,1.251 MB/s
+CCTV12,http://221.13.235.229:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0,1.189 MB/s
+CCTV13,http://221.13.235.229:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0,1.395 MB/s
+CCTV14,http://221.13.235.229:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0,1.140 MB/s
+东方卫视,http://221.13.235.229:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0,1.905 MB/s
+江苏卫视,http://221.13.235.229:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0,1.673 MB/s
+河南民生,http://221.13.235.229:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0,1.680 MB/s
+浙江卫视,http://221.13.235.229:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0,1.661 MB/s
+相声小品,http://221.13.235.229:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0,1.215 MB/s
