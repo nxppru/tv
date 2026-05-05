@@ -1,0 +1,10 @@
+CCTV13,http://125.125.225.192:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0,0.357 MB/s
+CCTV15,http://125.125.225.192:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0,0.374 MB/s
+云南卫视,http://125.125.225.192:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0,0.367 MB/s
+四川卫视,http://125.125.225.192:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0,0.357 MB/s
+安徽卫视,http://125.125.225.192:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0,0.357 MB/s
+旅游卫视,http://125.125.225.192:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0,0.413 MB/s
+河北卫视,http://125.125.225.192:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0,0.357 MB/s
+河南卫视,http://125.125.225.192:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0,0.311 MB/s
+深圳卫视,http://125.125.225.192:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0,0.435 MB/s
+辽宁卫视,http://125.125.225.192:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0,0.374 MB/s
